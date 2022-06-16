@@ -7,7 +7,7 @@ import android.os.Bundle;
 import android.view.View;
 import com.example.fal_hafez.R;
 import android.widget.TextView;
-import android.os.Bundle;
+
 
 public class MainActivity extends AppCompatActivity {
     private TextView text;

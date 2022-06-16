@@ -30,6 +30,8 @@ public class shaeran extends AppCompatActivity {
     RecyclerView.LayoutManager layoutManager;
     PoetAdapter adapter;
     List<Poet> poets;
+
+
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
