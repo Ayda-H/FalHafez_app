@@ -10,6 +10,15 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.Fal_hafez">
         <activity
+            android:name=".Row"
+            android:exported="false" />
+        <activity
+            android:name=".shaeran"
+            android:exported="false" />
+        <activity
+            android:name=".tabir_fal"
+            android:exported="false" />
+        <activity
             android:name=".MainActivity"
             android:exported="true">
             <intent-filter>
